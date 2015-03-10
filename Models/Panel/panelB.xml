@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+<!-- ******************** INSTRUMENTS *******************-->
+
+ <model>
+  <path>Aircraft/T-38C/Models/Panel/Instruments/AI/attitude.xml</path>
+  <offsets>
+   <x-m>-0.20686</x-m>
+   <y-m> -0.109268</y-m>
+   <z-m>0.821299</z-m>
+  </offsets>
+ </model>
+
+ <!-- nao necessario -->
+ <model>
+  <path>Aircraft/DavePack/Instruments/RDMI/RDMI.xml</path>
+  <offsets>
+   <x-m>-0.17</x-m>
+   <y-m> 0.0</y-m>
+   <z-m>0.58</z-m>
+  </offsets>
+ </model>
+
+ <model>
+  <path>Aircraft/DavePack/Instruments/RDMI/nav-select.xml</path>
+  <offsets>
+   <x-m>-0.18</x-m>
+   <y-m> 0.1</y-m>
+   <z-m>0.58</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.17686	0.819338	-0.200584 -->
+
+  <path>Aircraft/T-38C/Models/Panel/Instruments/n2/Lrpm.xml</path>
+  <offsets>
+   <x-m>-0.17686</x-m>
+   <y-m>0.200584</y-m>
+   <z-m>0.819338</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.17686	0.819338	-0.248917 -->
+  <path>Aircraft/T-38C/Models/Panel/Instruments/n2/Rrpm.xml</path>
+  <offsets>
+   <x-m>-0.17686</x-m>
+   <y-m>0.248917</y-m>
+   <z-m>0.819338</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.17686	0.77043	-0.200584 -->
+  <path>Aircraft/DavePack/Instruments/EGT/EGT-1.xml</path>
+  <offsets>
+   <x-m>-0.183</x-m>
+   <y-m>0.200584</y-m>
+   <z-m>0.77043</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.17686	0.77043	-0.248917 -->
+  <path>Aircraft/DavePack/Instruments/EGT/EGT-2.xml</path>
+  <offsets>
+   <x-m>-0.183</x-m>
+   <y-m>0.248917</y-m>
+   <z-m>0.77043</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.17686	0.722097	-0.200584 -->
+  <path>Aircraft/T-38C/Models/Panel/Instruments/Nozzle/nozzle-1.xml</path>
+  <offsets>
+   <x-m>-0.183</x-m>
+   <y-m>0.200584</y-m>
+   <z-m>0.722097</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.17686	0.722097	-0.248917 -->
+  <path>Aircraft/T-38C/Models/Panel/Instruments/Nozzle/nozzle-2.xml</path>
+  <offsets>
+   <x-m>-0.183</x-m>
+   <y-m>0.248917</y-m>
+   <z-m>0.722097</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.18791	0.821299	0.187463
+-3.17657	0.821299	0.187463 -->
+  <path>Aircraft/DavePack/Instruments/AS/800/airspeed.xml</path>
+  <offsets>
+   <x-m>-0.19</x-m>
+   <y-m>-0.187463</y-m>
+   <z-m>0.821299</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- ALTIMETRO -3.17657	0.741695	0.187463 
+-->
+  <path>Aircraft/Davepack/Instruments/Alt/altimeter.xml</path>
+  <offsets>
+   <x-m>-0.19657</x-m>
+   <y-m>-0.187463</y-m>
+   <z-m>0.741695</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.18791	0.675367	0.0978707
+-3.17657	0.675367	0.0978707 -->
+  <path>Aircraft/DavePack/Instruments/IVSI/IVSI.xml</path>
+  <offsets>
+   <x-m>-0.18</x-m>
+   <y-m> -0.0978707</y-m>
+   <z-m> 0.675367</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.18791	0.675367	0.217559
+-3.17657	0.675367	0.217559 -->
+  <path>Aircraft/DavePack/Instruments/Flaps/flaps.xml</path>
+  <offsets>
+   <x-m>-0.18791</x-m>
+   <y-m>-0.217559</y-m>
+   <z-m> 0.675367</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.17621	0.697336	0.289365 -->
+  <path>Aircraft/T-38C/Models/Panel/Instruments/Gear/gear.xml</path>
+  <offsets>
+   <x-m>-0.20</x-m>
+   <y-m>-0.289365</y-m>
+   <z-m> 0.727336</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- XXX -->
+  <path>Aircraft/DavePack/Instruments/PanelLights/lights.xml</path>
+  <offsets>
+   <x-m>-0.19</x-m>
+   <y-m>-0.31</y-m>
+   <z-m>0.58</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.17686	0.672901	-0.200584 -->
+  <path>Aircraft/T-38C/Models/Panel/Instruments/Fuel/Lfuel.xml</path>
+  <offsets>
+   <x-m>-0.185</x-m>
+   <y-m>0.200584</y-m>
+   <z-m>0.672901</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.17686	0.672901	-0.248917 -->
+  <path>Aircraft/T-38C/Models/Panel/Instruments/Fuel/Rfuel.xml</path>
+  <offsets>
+   <x-m>-0.185</x-m>
+   <y-m>0.248917</y-m>
+   <z-m>0.672901</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.17657	0.823643	-0.148884
+-3.18791	0.823643	-0.148884 -->
+  <path>Aircraft/DavePack/Instruments/GMeter/gmeter.xml</path>
+  <offsets>
+   <x-m>-0.185</x-m>
+   <y-m>0.148884</y-m>
+   <z-m>0.823643</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.18791	0.766832	-0.146209
+-3.17657	0.766832	-0.146209 -->
+  <path>Aircraft/T-38C/Models/Panel/Instruments/SAI/sai.xml</path>
+  <offsets>
+   <x-m>-0.17091</x-m>
+   <y-m>0.146209</y-m>
+   <z-m> 0.766832</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- XXX -->
+  <path>Aircraft/T-38C/Models/Panel/Instruments/AOA/indexer.xml</path>
+  <offsets>
+   <x-m>-0.04</x-m>
+   <y-m> -0.07</y-m>
+   <z-m> 0.94</z-m>
+  </offsets>
+ </model>
+
+ <model>
+ <!-- -3.12304	1.08008	-0.169921
+ -->
+  <path>Aircraft/DavePack/Instruments/MagCompass/comp.xml</path>
+  <offsets>
+   <x-m>-0.12304</x-m>
+   <y-m> 0.21</y-m>
+   <z-m> 1.00</z-m>
+  </offsets>
+ </model>
+
+ <!-- <model>
+ RADAR
+ -3.17657	0.704228	-0.016372
+ -3.18791	0.704228	-0.016372
+  <path>Aircraft/DavePack/Instruments/radar/radar.xml</path>
+  <offsets>
+   <x-m>-0.20304</x-m>
+   <y-m> 0.016372</y-m>
+   <z-m> 0.704228</z-m>
+  </offsets>
+ </model> 
+  -->
+
+   
+ <!--  <model>
+RADAR
+ -3.17657	0.704228	-0.016372
+ -3.18791	0.704228	-0.016372
+
+  <path>Aircraft/Instruments-3d/rwr/rwr.xml</path>
+  <offsets>
+   <x-m>-0.10304</x-m>
+   <y-m> 0.016372</y-m>
+   <z-m> 0.704228</z-m>
+  </offsets>
+ </model>  
+  --> 
+  
+ <model>
+ <!-- RADAR
+ -3.17657	0.704228	-0.016372
+ -3.18791	0.704228	-0.016372
+  -->
+  <path>Aircraft/T-38C/Models/Panel/Instruments/Radar/radar.xml</path>
+  <offsets>
+   <x-m>-0.20304</x-m>
+   <y-m> 0.016372</y-m>
+   <z-m> 0.704228</z-m>
+  </offsets>
+ </model> 
+  
+ <model>
+ <!-- FUEL -3.17686	0.672901	-0.298401
+  -->
+  <path>Aircraft/DavePack/Instruments/Fuel/fuel.xml</path>
+  <offsets>
+   <x-m>-0.185</x-m>
+   <y-m> 0.298401</y-m>
+   <z-m> 0.672901</z-m>
+  </offsets>
+ </model> 
+ 
+<!-- Clock -3.18791	0.823643	-0.094798
+-->
+ <model>
+  <path>Aircraft/T-38C/Models/Panel/Instruments/Clock/clock.xml</path>
+  <offsets>
+   <x-m>-0.18091</x-m>
+   <y-m> 0.094798</y-m>
+   <z-m> 0.823643</z-m>
+  </offsets>
+ </model> 
+
+<!-- OILTEMP -3.17686	0.722097	-0.298401
+-->
+ <model>
+  <path>Aircraft/T-38C/Models/Panel/Instruments/Oiltemp/oiltemp.xml</path>
+  <offsets>
+   <x-m>-0.17586</x-m>
+   <y-m> 0.298401</y-m>
+   <z-m> 0.722097</z-m>
+  </offsets>
+ </model> 
+ 
+<!-- AOA -3.17657	0.675367	0.156931
+-3.18791	0.675367	0.156931
+-->
+ <model>
+  <path>Aircraft/T-38C/Models/Panel/Instruments/AOAb/aoa-gauge.xml</path>
+  <offsets>
+   <x-m>-0.17657</x-m>
+   <y-m> -0.156931</y-m>
+   <z-m> 0.675367</z-m>
+  </offsets>
+ </model> 
+
+ <!-- HSI -3.17657	0.741909	0.107859
+-3.18791	0.741909	0.107859
+-->
+	<model>
+		<path>Aircraft/T-38C/Models/Panel/Instruments/HSI/hsi.xml</path>
+		<offsets> 
+			<x-m>-0.17657</x-m>
+			<y-m>-0.107859</y-m>
+			<z-m>0.741909</z-m>
+		</offsets>
+		<animation>
+			<type>noshadow</type>
+		</animation>
+	</model>
+	
+	<model>
+		<path>Aircraft/T-38C/Models/Panel/Instruments/HSI/hsi-2.xml</path>
+		<offsets> 
+			<x-m>-0.17657</x-m>
+			<y-m>-0.107859</y-m>
+			<z-m>0.741909</z-m>
+		</offsets>
+		<animation>
+			<type>noshadow</type>
+		</animation>
+	</model>
+	<!--
+	<model>
+		<path>Aircraft/T-38C/Models/Panel/Instruments/VSI/vsi.xml</path>
+		<offsets> 
+			<x-m>-0.17657</x-m>
+			<y-m>-0.004</y-m>
+			<z-m>1.0176</z-m>
+			<pitch-deg>-14</pitch-deg>
+		</offsets>
+		<animation>
+			<type>noshadow</type>
+		</animation>
+	</model> 
+ -->
+<!-- STICK -->
+	<model>
+		<path>Aircraft/T-38C/Models/Panel/Instruments/Stick/stick.xml</path>
+		<offsets> 
+			<x-m>0.244</x-m>
+			<y-m> 0</y-m>
+			<z-m>0.203125</z-m>
+		</offsets>
+		<animation>
+			<type>noshadow</type>
+		</animation>
+	</model>
+
+</PropertyList>
+
+

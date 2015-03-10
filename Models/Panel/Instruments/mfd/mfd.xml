@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <name>mfd</name>
+ <path>mfd.ac</path>
+
+ <model>
+    <path>Aircraft/T-38C/Models/Panel/Instruments/mfd/terrain-map-pixel.xml</path>
+	<offsets>
+      <x-m> -0.002 </x-m>
+      <y-m>0 </y-m>
+      <z-m>0.0 </z-m>
+	  <pitch-offset>-5</pitch-offset>
+    </offsets>
+  </model>
+
+</PropertyList>
