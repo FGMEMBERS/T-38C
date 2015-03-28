@@ -74,7 +74,7 @@
 	<stall>
         <name>stall</name>
         <mode>looped</mode>
-        <path>/Aircraft/T-38C/Sounds/stall.wav</path>
+        <path>Aircraft/T-38C/Sounds/stall.wav</path>
         <condition>
             <less-than>
                 <property>velocities/airspeed-kt</property>
@@ -103,7 +103,7 @@
     <stall>
         <name>stall</name>
         <mode>looped</mode>
-        <path>/Aircraft/T-38C/Sounds/stall.wav</path>
+        <path>Aircraft/T-38C/Sounds/stall.wav</path>
         <condition>
             <less-than>
                 <property>velocities/airspeed-kt</property>
@@ -131,7 +131,7 @@
     <stall>
         <name>stall</name>
         <mode>looped</mode>
-        <path>/Aircraft/T-38C/Sounds/stall.wav</path>
+        <path>Aircraft/T-38C/Sounds/stall.wav</path>
         <condition>
             <less-than>
                 <property>velocities/airspeed-kt</property>
