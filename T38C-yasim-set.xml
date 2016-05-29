@@ -297,7 +297,7 @@ FGUK,  www.fguk.eu
     <T38C>
 	<file>Aircraft/T-38C/Nasal/lights.nas</file>
 	<file>Aircraft/T-38C/Nasal/liveries.nas</file>
-	<file>AircraftT-38C/Nasal/doors.nas</file>
+	<file>Aircraft/T-38C/Nasal/doors.nas</file>
 	</T38C>
 	<aar> 
 			<file>Aircraft/T-38C/aar.nas</file>
