@@ -30,7 +30,7 @@ FGUK,  www.fguk.eu
         <path>Aircraft/Generic/generic-electrical.xml</path>
       </electrical>
    <autopilot>
-    <path>Aircraft/T-38C/systems/Autopilot.xml</path>
+    <path>Aircraft/T-38C/Systems/Autopilot.xml</path>
    </autopilot>
    </systems>
   

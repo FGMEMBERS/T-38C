@@ -50,7 +50,7 @@
  </model>
  
  <model>
-  <path>Aircraft/T-38C/Models/Panel/Instruments/ASImach/asi.xml</path>
+  <path>Aircraft/T-38C/Models/Panel/Instruments/ASIMach/asi.xml</path>
   <offsets>
    <x-m>-3.19</x-m>
    <y-m> -0.175</y-m>
